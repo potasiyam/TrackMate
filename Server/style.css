@@ -1,0 +1,40 @@
+.center{
+	text-align: center;
+	font-family: "segoe ui";
+}
+.content{
+
+	text-align: left;
+	margin-left: auto;
+	margin-right: auto;
+}
+#title{
+	text-align: left;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	padding-left: 20px;
+	background-color: #003388;
+	font-family: "segoe ui", sans-serif;
+	font-size: 38px;
+	color: #fff;
+	font-weight: lighter;
+
+
+}
+.question-box{
+	padding: 10px;
+}
+
+input {
+	border: 2px solid #333;
+	background-color: #ccc;
+	padding: 4px;
+	font-family: "Segoe UI";
+}
+
+select {
+	border: 2px solid #333;
+	background-color: #ccc;
+	padding: 3px;
+	font-family: "Segoe UI";
+}

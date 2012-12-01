@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<xml>
+  <meetingID>8</meetingID>
+  <task>
+    <taskID>7</taskID>
+    <toDo>Street cleaning on area 3</toDo>
+  </task>
+  <task>
+    <taskID>8</taskID>
+    <toDo>Waste disposal on area 4</toDo>
+  </task>
+  <task>
+     <taskID>9</taskID>
+     <toDo>Supply drinking water on area 9</toDo>
+  </task>
+</xml>
